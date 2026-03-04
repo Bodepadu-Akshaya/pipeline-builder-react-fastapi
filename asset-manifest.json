@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bodepadu-Akshaya/pipeline-builder-react-fastapi/static/css/main.4f05dbd2.css",
+    "main.js": "/Bodepadu-Akshaya/pipeline-builder-react-fastapi/static/js/main.bcdc7445.js",
+    "index.html": "/Bodepadu-Akshaya/pipeline-builder-react-fastapi/index.html",
+    "main.4f05dbd2.css.map": "/Bodepadu-Akshaya/pipeline-builder-react-fastapi/static/css/main.4f05dbd2.css.map",
+    "main.bcdc7445.js.map": "/Bodepadu-Akshaya/pipeline-builder-react-fastapi/static/js/main.bcdc7445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f05dbd2.css",
+    "static/js/main.bcdc7445.js"
+  ]
+}

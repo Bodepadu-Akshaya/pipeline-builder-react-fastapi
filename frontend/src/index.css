@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  background: #0f172a;
+  font-family: Arial, sans-serif;
+}
+
+/* Main layout */
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Top toolbar */
+.top-toolbar {
+  background: #111827;
+  padding: 12px;
+  border-bottom: 1px solid #1f2937;
+}
+
+/* Nodes container */
+.toolbar-container {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Single node style */
+.toolbar-node {
+  background: #1f2937;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  cursor: grab;
+  font-size: 14px;
+  transition: 0.2s;
+}
+
+.toolbar-node:hover {
+  background: #374151;
+}
+
+/* Canvas */
+.canvas-area {
+  flex: 1;
+  background: #020617;
+}
